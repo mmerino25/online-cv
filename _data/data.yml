@@ -15,9 +15,9 @@ sidebar:
     # Sidebar links
     email: manuel.merino.pe@gmail.com
     phone: +51 958 000 163
-    timezone: Aerica/Lima Timezone
+    timezone:
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: #do not add http://
     linkedin:
     xing:
     github: mmerino25
@@ -52,14 +52,15 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Ingeniero Mecánico Eléctrico con 5 años de experiencia en Investigación e
+      Innovación, destacando como gestor tecnológico e investigador clave en proyectos
+      de I+D+i. Especializado en Industria 4.0, Transformación Digital, Automatización
+      y Energías Renovables. Mi enfoque se centra en la aplicación pragmática de
+      soluciones innovadoras para promover la eficiencia y el avance sostenible en
+      diferentes ámbitos industriales.
+
 education:
     title: Educación
     info:
@@ -164,15 +165,13 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Proyectos de inevstigación, desarrollo e innovación en los que he participado:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Desarrollo de un prototipo de deshidratador de frutas mediante tecnología de descompresión instantánea controlada
+        link: "#"
+        tagline: "Gestor tecnológico y encargado de la elaboración de informes de patentabilidad y el desarrollo del plan de negocios y paquete de transferencia tecnológica."
 
       - title: DevStudio
         link: "#"
