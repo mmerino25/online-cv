@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -209,29 +209,38 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Publicaciones
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Artículos y producción científica
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "A Fuzzy Control Approach for an Industrial Refrigeration System"
+        link: "https://doi.org/10.1016/B978-0-12-823377-1.50210-X"
+        authors: R Menzhausen, M Merino, B Dorneanu, J Manrique, W Ipanaque, H Arellano-Garcia
+        conference: "Computer Aided Chemical Engineering, 2020"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Design and experimental implementation of a PID-IMC Controller for a VCRS"
+        link: "https://doi.org/10.1109/INTERCON50315.2020.9220261"
+        authors: L Carrasco, M Merino, W Ipanaque
+        conference: "IEEE XXVII International Conference on Electronics, Electrical Engineering and Computing, 2020"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Control Strategies for a Vapour Compression Refrigeration System Used in Mango Exports: An Alternative to Traditional on-Off Controllers"
+        link: "https://www.aiche.org/academy/conferences/aiche-annual-meeting/2020/proceeding/paper/340c-control-strategies-vapour-compression-refrigeration-system-used-mango-exports-alternative"
+        authors: M Merino, L Carrasco, B Dorneanu, J Manrique, R Menzhausen, W Ipanaque, H Arellano-Garcia
+        conference: "IEEE XXVII International Conference on Electronics, Electrical Engineering and Computing, 2020"
+
+      - title: "Computational fluid dynamics analysis of water flow in a Pelton turbine"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: A Abad-Dioses, M Merino, D Marcelo-Aldana
+        conference: "2nd Latin American SDEWES Conference, 2020"
+
+      - title: "System identification and PI control applied to refrigeration system for mango exportation"
+        link: "https://doi.org/10.1109/INTERCON.2019.8853604"
+        authors: J Manrique, M Merino, J Reyes, W Ipanaqué
+        conference: "IEEE XXVI International Conference on Electronics, Electrical Engineering and Computing, 2019"
+
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades &amp; Competencias
 
     toolset:
       - name: Python & Django
