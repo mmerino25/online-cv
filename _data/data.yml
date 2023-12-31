@@ -8,8 +8,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Manuel E. Merino
-    tagline: Gestor Tecnológico - Ingeniero Mecánico Eléctrico
+    name: Manuel Merino
+    tagline: Ingeniero Mecánico Eléctrico - Gestor Tecnológico
     avatar: profile100_2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -69,8 +69,6 @@ education:
         time: 2023 - Act.
         details: |
           Estudiante de maestría en Energías Renovables
-            - Bullet point
-            - Bullet point
       - degree: Ing. Mecánico Eléctrico
         university: Universidad de Piura
         time: 2012 - 2017
@@ -173,21 +171,21 @@ projects:
         link: "#"
         tagline: "Gestor tecnológico y encargado de la elaboración de informes de patentabilidad y el desarrollo del plan de negocios y paquete de transferencia tecnológica."
 
-      - title: DevStudio
+      - title: Transformación digital del sector agroindustrial aplicada al banano orgánico.
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Responsable de diseño de sistemas de adquisición de datos edafoclimáticos mediante LoRaWAN, utilizado para la monitorización de cultivos de plátano y predicción de plagas."
 
-      - title: Tempo
+      - title: Estudio experimental y diseño de una planta piloto de biodigestión con parámetros controlados mediante sistemas embebidos, para el aprovechamiento del potencial energético y fertilizante de las cáscaras de cacao
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Asistente de investigación y tesista. Encargado del diseño, mantenimiento y operación de un reactor de digestión anaerobia semi-continuo con control automático de temperatura, presión y pH. Responsable de modelamiento matemático y simulación del proceso"
 
-      - title: Atom
+      - title: Control avanzado para mejorar el consumo energético en sistemas de refrigeración industrial
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Responsable de la operación y automatización de planta piloto de refrigeración industrial, del diseño de controladores de lógica digusa y PID avanzados, y del modelamiento y simulación del sistema."
 
-      - title: Delta
+      - title: Fortalecimiento de los servicios de extensionismo tecnológico aplicados a los sistemas productivos de las MIPYMES agroindustriales de la Región Piura.
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Responsable de identificación de brechas tecnológicas en asociaciones de productores regionales de banano orgánico y cacao, y capacitador en tecnologías de energía fotovoltaica, gestión de residuos sólidos y mejores prácticas para la poscosecha del banano orgánico y cacao."
 
 oss:
     title: OSS Contributions
